@@ -24,7 +24,7 @@ body[dir="rtl"] {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 1rem;
+  padding: 1rem 2rem;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -32,14 +32,14 @@ body[dir="rtl"] {
 }
 
 .logo {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 700;
   letter-spacing: 1px;
 }
 
 .nav-links {
   display: flex;
-  gap: 1rem;
+  gap: 1.5rem;
   list-style: none;
 }
 
@@ -56,13 +56,12 @@ body[dir="rtl"] {
 }
 
 #languageSwitcher {
-  padding: 0.3rem;
-  border-radius: 6px;
+  padding: 0.5rem;
+  border-radius: 8px;
   border: none;
   background-color: #fff;
   color: #2d3436;
   cursor: pointer;
-  font-size: 0.9rem;
 }
 
 .hamburger {
@@ -77,72 +76,72 @@ body[dir="rtl"] {
 /* Hero Section */
 .hero {
   background: linear-gradient(135deg, #00cec9, #0984e3);
-  padding: 1.5rem 1rem;
+  padding: 4rem 2rem;
   text-align: center;
   color: #fff;
 }
 
 .hero h2 {
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .hero p {
-  font-size: 0.9rem;
-  max-width: 100%;
+  font-size: 1.2rem;
+  max-width: 600px;
   margin: 0 auto;
 }
 
 /* Trips Section */
 .trips {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  padding: 1.5rem 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  padding: 4rem 2rem;
   background-color: #fff;
 }
 
 .trip {
   background-color: #e6f3ff;
-  border-radius: 10px;
-  padding: 1rem;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
   flex-direction: column;
 }
 
 .trip:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
 }
 
 .trip h3 {
   color: #0984e3;
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
 }
 
 .trip p {
   color: #636e72;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .trip ul {
   list-style: disc;
-  padding-left: 1rem;
+  padding-left: 1.5rem;
   color: #2d3436;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .book-now {
   display: inline-block;
-  padding: 0.5rem 1rem;
+  padding: 0.8rem 1.5rem;
   background-color: #0984e3;
   color: #fff;
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 8px;
   font-weight: 600;
   text-align: center;
   transition: background-color 0.3s ease, transform 0.2s ease;
@@ -156,37 +155,37 @@ body[dir="rtl"] {
 
 /* About Section */
 .about-section {
-  padding: 1.5rem 1rem;
+  padding: 4rem 2rem;
   background: #f0f6ff;
   text-align: center;
 }
 
 .about-section h2 {
-  font-size: 1.5rem;
+  font-size: 2.2rem;
   color: #0984e3;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .about-section p {
-  font-size: 0.9rem;
-  max-width: 100%;
-  margin: 0 auto 1rem auto;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
   color: #2d3436;
 }
 
 .contact-box {
   background: #fff;
-  padding: 1rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  max-width: 100%;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
   margin: 0 auto;
   text-align: left;
 }
 
 .contact-box h3 {
   color: #0984e3;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .contact-box ul {
@@ -194,8 +193,7 @@ body[dir="rtl"] {
 }
 
 .contact-box li {
-  margin: 0.5rem 0;
-  font-size: 0.9rem;
+  margin: 0.8rem 0;
 }
 
 .contact-box a {
@@ -210,96 +208,95 @@ body[dir="rtl"] {
 
 /* Gallery Section */
 .gallery-section {
-  padding: 1.5rem 1rem;
+  padding: 4rem 2rem;
   background: #f5fbff;
   text-align: center;
 }
 
 .gallery-section h2 {
-  font-size: 1.5rem;
+  font-size: 2.2rem;
   color: #0984e3;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .gallery-grid {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  max-width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .gallery-grid img {
   width: 100%;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .gallery-grid img:hover {
   transform: scale(1.05);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
 /* Trip Details - Media Section */
 .media {
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
 }
 
 .media img,
 .media video {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  height: 200px;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   object-fit: cover;
   aspect-ratio: 3 / 2;
 }
 
 /* Trip Details */
 .trip-details {
-  max-width: 100%;
-  margin: 1.5rem auto;
-  padding: 1rem;
+  max-width: 1200px;
+  margin: 4rem auto;
+  padding: 2rem;
   background-color: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
 .trip-details h1 {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #0984e3;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .trip-info {
   background-color: #e6f3ff;
-  padding: 1rem;
-  border-radius: 10px;
+  padding: 2rem;
+  border-radius: 12px;
   color: #2d3436;
 }
 
 .trip-info p {
-  font-size: 0.9rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
 }
 
 .trip-info ul {
   list-style: none;
   padding-left: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .trip-info li {
-  margin-bottom: 0.5rem;
-  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
 }
 
 .trip-info strong {
@@ -308,10 +305,10 @@ body[dir="rtl"] {
 
 .book-button {
   display: inline-block;
-  padding: 0.5rem 1rem;
+  padding: 0.8rem 1.5rem;
   background-color: #0984e3;
   color: #fff;
-  border-radius: 6px;
+  border-radius: 8px;
   font-weight: 600;
   text-decoration: none;
   transition: background-color 0.3s ease, transform 0.2s ease;
@@ -328,26 +325,24 @@ footer {
   background-color: #2d3436;
   color: #fff;
   text-align: center;
-  padding: 1rem;
-  margin-top: 1rem;
+  padding: 1.5rem;
+  margin-top: 3rem;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
   .navbar {
     flex-wrap: wrap;
-    padding: 0.5rem;
+    padding: 1rem;
   }
 
   .nav-links {
     display: none;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 1rem;
     width: 100%;
     text-align: center;
-    margin-top: 0.5rem;
-    background-color: #0984e3;
-    padding: 0.5rem 0;
+    margin-top: 1rem;
   }
 
   .nav-links.active {
@@ -359,129 +354,45 @@ footer {
   }
 
   .hero h2 {
-    font-size: 1.2rem;
+    font-size: 2rem;
   }
 
   .hero p {
-    font-size: 0.8rem;
-  }
-
-  .trip h3 {
     font-size: 1rem;
   }
 
-  .trip p {
-    font-size: 0.8rem;
-  }
-
-  .book-now {
-    padding: 0.4rem 0.8rem;
-    font-size: 0.8rem;
-  }
-
-  .about-section h2 {
-    font-size: 1.2rem;
-  }
-
-  .about-section p {
-    font-size: 0.8rem;
-  }
-
-  .contact-box {
-    padding: 0.8rem;
-  }
-
-  .gallery-section h2 {
-    font-size: 1.2rem;
-  }
-
-  .trip-details h1 {
-    font-size: 1.2rem;
-  }
-
-  .trip-info {
-    padding: 0.8rem;
-  }
-}
-
-@media (min-width: 769px) {
   .trips {
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    padding: 4rem 2rem;
-  }
-
-  .hero {
-    padding: 4rem 2rem;
-  }
-
-  .hero h2 {
-    font-size: 2.5rem;
-  }
-
-  .hero p {
-    font-size: 1.2rem;
-  }
-
-  .trip h3 {
-    font-size: 1.6rem;
-  }
-
-  .trip p {
-    font-size: 1rem;
-  }
-
-  .book-now {
-    padding: 0.8rem 1.5rem;
-  }
-
-  .about-section {
-    padding: 4rem 2rem;
-  }
-
-  .about-section h2 {
-    font-size: 2.2rem;
-  }
-
-  .about-section p {
-    font-size: 1.1rem;
-  }
-
-  .contact-box {
-    padding: 2rem;
-  }
-
-  .gallery-section {
-    padding: 4rem 2rem;
-  }
-
-  .gallery-section h2 {
-    font-size: 2.2rem;
+    grid-template-columns: 1fr;
+    padding: 2rem 1rem;
   }
 
   .gallery-grid {
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr;
   }
 
   .media {
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
   }
 
   .media img,
   .media video {
-    width: 300px;
+    width: 100%;
+    max-width: 300px;
+    height: 200px;
   }
+}
 
-  .trip-details {
-    max-width: 1200px;
-    padding: 2rem;
+@media (max-width: 480px) {
+  .logo {
+    font-size: 1.5rem;
   }
 
   .trip-details h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .trip-info {
-    padding: 2rem;
+    padding: 1.5rem;
   }
 }
