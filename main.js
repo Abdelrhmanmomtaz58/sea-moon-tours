@@ -48,7 +48,13 @@ const translations = {
     trip4_point1: "Two snorkeling stops",
     trip4_point2: "Two hours of water activities on the island",
     trip4_duration: "Full Day",
-    trip4_location: "Orange Bay, Hurghada"
+    trip4_location: "Orange Bay, Hurghada",
+    trip5_full_title: "Hula Hula Island - Snorkeling & Water Activities",
+    trip5_description: "A fun day trip to Hula Hula Island, Hurghada! Enjoy snorkeling at 2 spots and 2 hours of water activities on the island. Includes:",
+    trip5_point1: "Two snorkeling stops",
+    trip5_point2: "Two hours of water activities on the island",
+    trip5_duration: "Full Day",
+    trip5_location: "Hula Hula Island, Hurghada"
   },
   ar: {
     home: "الرئيسية",
@@ -99,7 +105,13 @@ const translations = {
     trip4_point1: "٢ وقفة غطس",
     trip4_point2: "٢ ساعات من الألعاب المائية على الجزيرة",
     trip4_duration: "يوم كامل",
-    trip4_location: "جزيرة أورانج باي، الغردقة"
+    trip4_location: "جزيرة أورانج باي، الغردقة",
+    trip5_full_title: "جزيرة هولا هولا - الغطس والألعاب المائية",
+    trip5_description: "رحلة يوم ممتع إلى جزيرة هولا هولا، الغردقة! استمتع بالغطس في ٢ موقع و٢ ساعات من الألعاب المائية على الجزيرة، وتشمل:",
+    trip5_point1: "٢ وقفة غطس",
+    trip5_point2: "٢ ساعات من الألعاب المائية على الجزيرة",
+    trip5_duration: "يوم كامل",
+    trip5_location: "جزيرة هولا هولا، الغردقة"
   },
   pl: {
     home: "Strona główna",
@@ -150,7 +162,13 @@ const translations = {
     trip4_point1: "Dwa miejsca do nurkowania",
     trip4_point2: "Dwie godziny zabaw wodnych na wyspie",
     trip4_duration: "Cały dzień",
-    trip4_location: "Orange Bay, Hurghada"
+    trip4_location: "Orange Bay, Hurghada",
+    trip5_full_title: "Hula Hula Island - Nurkowanie i zabawy wodne",
+    trip5_description: "Zabawny dzień na Hula Hula Island w Hurghadzie! Ciesz się nurkowaniem w 2 miejscach i 2 godzinami zabaw wodnych na wyspie. W cenie:",
+    trip5_point1: "Dwa miejsca do nurkowania",
+    trip5_point2: "Dwie godziny zabaw wodnych na wyspie",
+    trip5_duration: "Cały dzień",
+    trip5_location: "Hula Hula Island, Hurghada"
   },
   cz: {
     home: "Domů",
@@ -201,7 +219,13 @@ const translations = {
     trip4_point1: "Dva místa na šnorchlování",
     trip4_point2: "Dvě hodiny vodních aktivit na ostrově",
     trip4_duration: "Celý den",
-    trip4_location: "Orange Bay, Hurghada"
+    trip4_location: "Orange Bay, Hurghada",
+    trip5_full_title: "Hula Hula Island - Šnorchlování a vodní aktivity",
+    trip5_description: "Zábavný den na Hula Hula Island v Hurghadě! Užijte si šnorchlování na 2 místech a 2 hodiny vodních aktivit na ostrově. Zahrnuje:",
+    trip5_point1: "Dva místa na šnorchlování",
+    trip5_point2: "Dvě hodiny vodních aktivit na ostrově",
+    trip5_duration: "Celý den",
+    trip5_location: "Hula Hula Island, Hurghada"
   }
 };
 
