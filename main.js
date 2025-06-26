@@ -42,7 +42,13 @@ const translations = {
     trip3_point4: "Hot and cold drinks available all day",
     trip3_point5: "Hotel pick-up and drop-off included in price",
     trip3_duration: "Full day",
-    trip3_location: "Hamata"
+    trip3_location: "Hamata",
+    trip4_full_title: "Orange Bay - Snorkeling & Water Activities",
+    trip4_description: "A fun day trip to Orange Bay, Hurghada! Enjoy snorkeling at 2 spots and 2 hours of water activities on the island. Includes:",
+    trip4_point1: "Two snorkeling stops",
+    trip4_point2: "Two hours of water activities on the island",
+    trip4_duration: "Full Day",
+    trip4_location: "Orange Bay, Hurghada"
   },
   ar: {
     home: "الرئيسية",
@@ -87,7 +93,13 @@ const translations = {
     trip3_point4: "مشروبات ساخنة وباردة طوال اليوم",
     trip3_point5: "الانتقالات من وإلى الفندق مشمولة في السعر",
     trip3_duration: "يوم كامل",
-    trip3_location: "حماطة"
+    trip3_location: "حماطة",
+    trip4_full_title: "جزيرة أورانج باي - الغطس والألعاب المائية",
+    trip4_description: "رحلة يوم ممتع إلى جزيرة أورانج باي، الغردقة! استمتع بالغطس في ٢ موقع و٢ ساعات من الألعاب المائية على الجزيرة، وتشمل:",
+    trip4_point1: "٢ وقفة غطس",
+    trip4_point2: "٢ ساعات من الألعاب المائية على الجزيرة",
+    trip4_duration: "يوم كامل",
+    trip4_location: "جزيرة أورانج باي، الغردقة"
   },
   pl: {
     home: "Strona główna",
@@ -132,7 +144,13 @@ const translations = {
     trip3_point4: "Gorące i zimne napoje przez cały dzień",
     trip3_point5: "Transfer z/do hotelu w cenie",
     trip3_duration: "Cały dzień",
-    trip3_location: "Hamata"
+    trip3_location: "Hamata",
+    trip4_full_title: "Orange Bay - Nurkowanie i zabawy wodne",
+    trip4_description: "Zabawny dzień na Orange Bay w Hurghadzie! Ciesz się nurkowaniem w 2 miejscach i 2 godzinami zabaw wodnych na wyspie. W cenie:",
+    trip4_point1: "Dwa miejsca do nurkowania",
+    trip4_point2: "Dwie godziny zabaw wodnych na wyspie",
+    trip4_duration: "Cały dzień",
+    trip4_location: "Orange Bay, Hurghada"
   },
   cz: {
     home: "Domů",
@@ -177,7 +195,13 @@ const translations = {
     trip3_point4: "Teplé a studené nápoje po celý den",
     trip3_point5: "Přeprava z/do hotelu v ceně",
     trip3_duration: "Celý den",
-    trip3_location: "Hamata"
+    trip3_location: "Hamata",
+    trip4_full_title: "Orange Bay - Šnorchlování a vodní aktivity",
+    trip4_description: "Zábavný den na Orange Bay v Hurghadě! Užijte si šnorchlování na 2 místech a 2 hodiny vodních aktivit na ostrově. Zahrnuje:",
+    trip4_point1: "Dva místa na šnorchlování",
+    trip4_point2: "Dvě hodiny vodních aktivit na ostrově",
+    trip4_duration: "Celý den",
+    trip4_location: "Orange Bay, Hurghada"
   }
 };
 
