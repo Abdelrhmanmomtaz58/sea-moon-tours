@@ -54,7 +54,14 @@ const translations = {
     trip5_point1: "Two snorkeling stops",
     trip5_point2: "Two hours of water activities on the island",
     trip5_duration: "Full Day",
-    trip5_location: "Hula Hula Island, Hurghada"
+    trip5_location: "Hula Hula Island, Hurghada",
+    trip6_full_title: "Paradise Island - Snorkeling & Water Activities",
+    trip6_description: "A fun day trip to Paradise Island, Hurghada! Enjoy snorkeling at 2 spots, 2 hours on the island, and water activities. Includes:",
+    trip6_point1: "Two snorkeling stops",
+    trip6_point2: "Two hours on the island",
+    trip6_point3: "Water activities stop",
+    trip6_duration: "Full Day",
+    trip6_location: "Paradise Island, Hurghada"
   },
   ar: {
     home: "الرئيسية",
@@ -111,7 +118,14 @@ const translations = {
     trip5_point1: "٢ وقفة غطس",
     trip5_point2: "٢ ساعات من الألعاب المائية على الجزيرة",
     trip5_duration: "يوم كامل",
-    trip5_location: "جزيرة هولا هولا، الغردقة"
+    trip5_location: "جزيرة هولا هولا، الغردقة",
+    trip6_full_title: "جزيرة البراديس - الغطس والألعاب المائية",
+    trip6_description: "رحلة يوم ممتع إلى جزيرة البراديس، الغردقة! استمتع بالغطس في ٢ موقع، ساعتين على الجزيرة، ووقفة ألعاب مائية، وتشمل:",
+    trip6_point1: "٢ وقفة غطس",
+    trip6_point2: "ساعتين على الجزيرة",
+    trip6_point3: "وقفة ألعاب مائية",
+    trip6_duration: "يوم كامل",
+    trip6_location: "جزيرة البراديس، الغردقة"
   },
   pl: {
     home: "Strona główna",
@@ -168,7 +182,14 @@ const translations = {
     trip5_point1: "Dwa miejsca do nurkowania",
     trip5_point2: "Dwie godziny zabaw wodnych na wyspie",
     trip5_duration: "Cały dzień",
-    trip5_location: "Hula Hula Island, Hurghada"
+    trip5_location: "Hula Hula Island, Hurghada",
+    trip6_full_title: "Paradise Island - Nurkowanie i zabawy wodne",
+    trip6_description: "Zabawny dzień na Paradise Island w Hurghadzie! Ciesz się nurkowaniem w 2 miejscach, 2 godzinami na wyspie i zabawami wodnymi. W cenie:",
+    trip6_point1: "Dwa miejsca do nurkowania",
+    trip6_point2: "Dwie godziny na wyspie",
+    trip6_point3: "Zabawy wodne",
+    trip6_duration: "Cały dzień",
+    trip6_location: "Paradise Island, Hurghada"
   },
   cz: {
     home: "Domů",
@@ -225,7 +246,14 @@ const translations = {
     trip5_point1: "Dva místa na šnorchlování",
     trip5_point2: "Dvě hodiny vodních aktivit na ostrově",
     trip5_duration: "Celý den",
-    trip5_location: "Hula Hula Island, Hurghada"
+    trip5_location: "Hula Hula Island, Hurghada",
+    trip6_full_title: "Paradise Island - Šnorchlování a vodní aktivity",
+    trip6_description: "Zábavný den na Paradise Island v Hurghadě! Užijte si šnorchlování na 2 místech, 2 hodiny na ostrově a vodní aktivity. Zahrnuje:",
+    trip6_point1: "Dva místa na šnorchlování",
+    trip6_point2: "Dvě hodiny na ostrově",
+    trip6_point3: "Vodní aktivity",
+    trip6_duration: "Celý den",
+    trip6_location: "Paradise Island, Hurghada",
   }
 };
 
