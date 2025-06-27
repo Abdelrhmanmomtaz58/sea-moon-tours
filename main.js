@@ -61,7 +61,14 @@ const translations = {
     trip6_point2: "Two hours on the island",
     trip6_point3: "Water activities stop",
     trip6_duration: "Full Day",
-    trip6_location: "Paradise Island, Hurghada"
+    trip6_location: "Paradise Island, Hurghada",
+    trip7_full_title: "Mountain & Desert Safari",
+    trip7_description: "An exciting safari in Marsa Alam's mountains and desert with buggy rides, Bedouin camp, horse and camel riding. Includes:",
+    trip7_point1: "Buggy ride through the desert",
+    trip7_point2: "Visit to a Bedouin camp",
+    trip7_point3: "Horse and camel riding",
+    trip7_duration: "Full Day",
+    trip7_location: "Marsa Alam Desert",
   },
   ar: {
     home: "الرئيسية",
@@ -125,7 +132,14 @@ const translations = {
     trip6_point2: "ساعتين على الجزيرة",
     trip6_point3: "وقفة ألعاب مائية",
     trip6_duration: "يوم كامل",
-    trip6_location: "جزيرة البراديس، الغردقة"
+    trip6_location: "جزيرة البراديس، الغردقة",
+    trip7_full_title: "سفاري جبل وصحراء",
+    trip7_description: "رحلة سفاري مثيرة في جبال وصحراء مرسى علم تشمل ركوب باجي، وقفة بدوية، وركوب خيل وجمال، وتشمل:",
+    trip7_point1: "ركوب باجي في الصحراء",
+    trip7_point2: "زيارة معسكر بدوي",
+    trip7_point3: "ركوب خيل وجمال",
+    trip7_duration: "يوم كامل",
+    trip7_location: "صحراء مرسى علم"
   },
   pl: {
     home: "Strona główna",
@@ -189,7 +203,14 @@ const translations = {
     trip6_point2: "Dwie godziny na wyspie",
     trip6_point3: "Zabawy wodne",
     trip6_duration: "Cały dzień",
-    trip6_location: "Paradise Island, Hurghada"
+    trip6_location: "Paradise Island, Hurghada",
+    trip7_full_title: "Safari Górskie i Pustynne",
+    trip7_description: "Ekscytująca safari w górach i pustyni Marsa Alam z jazdą na buggy, wizytą w obozie Beduinów i jazdą na koniach oraz wielbłądach. W cenie:",
+    trip7_point1: "Jazda na buggy przez pustynię",
+    trip7_point2: "Wizyta w obozie Beduinów",
+    trip7_point3: "Jazda na koniach i wielbłądach",
+    trip7_duration: "Cały dzień",
+    trip7_location: "Pustynia Marsa Alam"
   },
   cz: {
     home: "Domů",
@@ -254,6 +275,13 @@ const translations = {
     trip6_point3: "Vodní aktivity",
     trip6_duration: "Celý den",
     trip6_location: "Paradise Island, Hurghada",
+    trip7_full_title: "Safar v Horách a Pustině",
+    trip7_description: "Výlet safari v horách a pustině Marsa Alam s jízdou na buggy, návštěvou beduínského tábora a jízdou na koních a velbloudech. Zahrnuje:",
+    trip7_point1: "Jízda na buggy přes poušť",
+    trip7_point2: "Návštěva beduínského tábora",
+    trip7_point3: "Jízda na koních a velbloudech",
+    trip7_duration: "Celý den",
+    trip7_location: "Pustina Marsa Alam"
   }
 };
 
